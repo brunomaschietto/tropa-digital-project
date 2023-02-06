@@ -19,7 +19,7 @@ const LoginPage = () => {
   const [show, setShow] = useState(false);
   const handleChange = () => setShow(!show);
   return (
-    <Flex alignItems={"center"} justifyContent={"center"} minHeight={"937px"}>
+    <Flex alignItems={"center"} bgColor={'#ff6c22'} justifyContent={"center"} minHeight={"937px"}>
       <Flex
         width={"800px"}
         height={"500px"}
