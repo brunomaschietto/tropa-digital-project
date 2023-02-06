@@ -28,6 +28,10 @@ Allow you to get in the Home Page. You don't need to register.
 
 Shows some cards of people in the home tab. The other tabs are in maintenance.
 
+## **Deploy**
+
+https://tropa-digital-project.surge.sh/
+
 ## **Author**
 
 Bruno Maschietto.
